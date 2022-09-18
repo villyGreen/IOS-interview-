@@ -1,6 +1,7 @@
 # IOS-interview
 It is useful guide for future IOS interview 
 
+<img src="https://c.tenor.com/-ZBHzqh79q8AAAAS/%D0%B8%D0%B4%D1%83%D1%89%D0%B8%D0%B9%D0%BA%D1%80%D0%B5%D0%BA%D0%B5-%D0%BF%D1%80%D0%B5%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BB%D1%81%D1%8F.gif"/>
 Hi, in this file i collected many useful information, then can be halped for your technical interview
 
 ## Overview:
